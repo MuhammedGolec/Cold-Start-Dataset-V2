@@ -8,7 +8,6 @@ The dataset was created by modeling a production line that operates continuously
 
 3) If there is no request to the server for more than 15 minutes, containers are released in accordance with the policy implemented by GCP. A cold start occurs if new requests come to the released containers.
 
-![Thecoldstartdatasetv2](https://github.com/MuhammedGolec/Cold-Start-Dataset-V2/assets/61287653/9ecfb629-8b67-4ba0-a821-26d7368c0cc4)
 
 Figure 1. The Cold Start Dataset 
 
